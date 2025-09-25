@@ -1,4 +1,5 @@
-DEFAULT_NOTE = "Student Management System - Feature: Added student record"
+DEFAULT_NOTE = "Student Management System - Main branch update"
+
 
 class Student:
     def __init__(self, name, roll_no, student_class):
