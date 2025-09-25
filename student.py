@@ -1,6 +1,7 @@
 DEFAULT_NOTE = "Student Management System - Main branch update"
 
 
+
 class Student:
     def __init__(self, name, roll_no, student_class):
         self.name = name
